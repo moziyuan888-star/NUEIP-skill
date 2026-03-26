@@ -1,0 +1,3 @@
+interface:
+  display_name: "OpenClaw NUEIP 請假助理"
+  short_description: "Automate NUEIP leave submissions with multi-user login support"
