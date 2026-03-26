@@ -1,0 +1,3 @@
+interface:
+  display_name: "OpenClaw NUEIP 公出助理"
+  short_description: "Automate NUEIP outing records with multi-user login support"
