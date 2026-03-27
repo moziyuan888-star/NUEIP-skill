@@ -1,3 +1,4 @@
 interface:
   display_name: "OpenClaw NUEIP 公出助理"
-  short_description: "Automate NUEIP outing records with multi-user login support"
+  short_description: "自動化處理 NUEIP 公出申請流程，支援多帳號登入與欄位填寫"
+  default_prompt: "幫我到 NUEIP 填寫公出紀錄，依指令填入日期、外出時間、目的地並提交，必要時登入並使用已儲存帳號。"

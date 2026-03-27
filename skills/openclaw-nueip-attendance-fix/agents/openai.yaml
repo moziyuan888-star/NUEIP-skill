@@ -1,4 +1,4 @@
 interface:
   display_name: "OpenClaw NUEIP 補卡助理"
-  short_description: "Automate NUEIP attendance fix submissions with multi-user login"
+  short_description: "自動化處理 NUEIP 補卡流程，支援多帳號登入與上下班卡選擇"
   default_prompt: "幫我到 NUEIP 補卡，依指令選上班/下班、日期、時間並提交，必要時登入並使用已儲存帳號。"
