@@ -1,3 +1,4 @@
 interface:
   display_name: "OpenClaw NUEIP 請假助理"
-  short_description: "Automate NUEIP leave submissions with multi-user login support"
+  short_description: "自動化處理 NUEIP 請假流程，支援多帳號登入與單筆/多筆請假"
+  default_prompt: "幫我到 NUEIP 請假，依指令填入日期與時段並提交，必要時登入並使用已儲存帳號。"
